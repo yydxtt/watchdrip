@@ -36,3 +36,4 @@ https://bigdigital.home.blog/2022/12/21/zepp-os-devices-support/
 More information can be found on
 https://www.patreon.com/xdrip_miband
 https://bigdigital.home.blog/
+ 。
